@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>YourBusinessBotAI</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="script.js" defer></script>
+</head>
+<body>
+
+  <h1 style="color: black;">YourBusinessBotAI</h1> <!-- Visible title on page -->
+
+</body>
+</html>
+   <a href="https://poe.com/YourBusinessBotAI" target="_blank" class="chat-float">
+  💬 Chat With Our Bot
+</a>
+<script src="script.js"></script>
+</body>
+
+<!-- Logo Section -->
+<header>
+  <img src="https://i.imgur.com/HO2vllP.png" alt="YourBusinessBotAI Logo" class="logo">
+</header>
+</html>
+<body>
+<header class="navbar">
+  <div class="container nav-container">
+    <nav>
+      <a href="#features">Features</a>
+      <a href="#pricing">Pricing</a>
+      <a href="#testimonials">Testimonials</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </div>
+</header>
+
+<section class="hero" id="hero">
+  <div class="container hero-content fade-in">
+    <div class="hero-grid">
+      <div class="hero-text">
+        <h1>YourBusinessBotAI</h1>
+        <p>AI chatbot built for local businesses — gyms, clinics, garages, salons & more.</p>
+        <a href="#contact" class="btn">Get Started</a>
+      </div>
+      <div class="hero-image">
+        <img src="https://i.imgur.com/xzXLYqi.png" alt="AI Chat Icon" width="60" height="60" /> 
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="features container" id="features">
+  <div class="fade-in">
+    <h2>✅ What You Get</h2>
+    <div class="feature-grid">
+      <div class="feature">
+        <img src="https://i.imgur.com/yJQksc7.png" alt="Gym Icon" width="60" height="60" />
+        <p>Promote classes, take inquiries, answer gym FAQs</p>
+      </div>
+      <div class="feature">
+        <img src="https://i.imgur.com/tKgVfIE.png" alt="Barber Icon" width="60" height="60" />
+        <p>Show services, take appointments, respond 24/7</p>
+      </div>
+      <div class="feature">
+        <img src="https://i.imgur.com/EZtt12V.png" alt="Clinic Icon" width="60" height="60" />
+        <p>Answer health queries, display opening hours</p>
+      </div>
+      <div class="feature">
+        
+        <img src="https://i.imgur.com/fRwppwR.png" alt="Garage Icon" width="60" height="60" /><p>Auto service FAQs, take bookings, save time</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="pricing container" id="pricing">
+  <div class="fade-in">
+    <h2>💷 Pricing Plans</h2>
+    <div class="price-grid">
+      <div class="card">
+        <h3>Standard</h3>
+        <p class="price">£89 setup<br>+ £30/month</p>
+      </div>
+      <div class="card highlight">
+        <h3>Annual</h3>
+        <p class="price">£299 / year</p>
+      </div>
+      <div class="card">
+        <h3>Enterprise</h3>
+        <p class="price">£499 one-time</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="testimonials container" id="testimonials">
+  <div class="fade-in">
+    <h2>💬 What Businesses Are Saying</h2>
+    <div class="testimonial-grid">
+      <div class="testimonial">
+         <img src="https://i.imgur.com/POhUkkl.png" alt="Support Icon" width="60" height="60" />
+        
+        <p>"This bot handles all my gym inquiries while I train clients. Game changer."</p>
+        
+        <span>Jess – Personal Trainer</span>
+      </div>
+  
+      <div class="testimonial">
+        <img src="https://i.imgur.com/PIJesR1.png" alt="Maintenance Icon" width="60" height="60" />
+        <p>"We get fewer calls and more bookings. It’s like having a 24/7 front desk."</p>
+        <span>Tom – Barbershop Owner</span>
+      </div>
+      <div class="testimonial">
+        <img src="https://i.imgur.com/6BlHtje.png" alt="Pricing Icon" width="60" height="60" />
+        <p>"Patients get instant answers. My clinic runs smoother and faster now."</p>
+        <span>Dr. Ali – GP Practice</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="contact container" id="contact">
+  <div class="fade-in">
+    <h2>⚡ Ready to Launch?</h2>
+    <p>We'll build it, launch it, and maintain it — you just run your business.</p>
+    <a href="https://poe.com/YourBusinessBotAI" target="_blank" class="btn">💬 Chat with Our Bot</a>
+  </div>
+</section>
+
+<footer>
+  <div class="container">
+    <p>&copy; 2025 YourBusinessBotAI – Built for smart local businesses.</p>
+  </div>
+</footer>
+
+</body>
+</html>
